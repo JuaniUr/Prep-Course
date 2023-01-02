@@ -175,7 +175,7 @@ function tablaDelSeis(){
   for (var i = 0; i <= 10; i++) {
     vt6.push(num * i);
   }
-  return vt6
+  return vt6 ;
 }
 
 function tieneTresDigitos(numero){
