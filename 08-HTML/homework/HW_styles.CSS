@@ -1,0 +1,21 @@
+h1{
+    color: maroon;
+}
+
+#thirdiv {
+    height: 600px;
+    width: 500px;
+    background-color:chocolate;
+    padding: 50px;
+    border-top: 3px solid maroon;
+    border-right: 2px dashed maroon;
+    border-bottom: 3px solid maroon;
+    border-left: 2px dashed maroon;
+
+}
+
+#spanid {
+    font-size: 18px;
+    margin: 50px;
+}
+
